@@ -6,7 +6,7 @@
     "dev": "next dev --turbo",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "node -e \"console.log('Lint not configured: Next 16 CLI has no next lint; add ESLint if needed.')\""
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
